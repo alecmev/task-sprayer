@@ -1,0 +1,4 @@
+#!/bin/bash
+
+mkdir -p /media/sf_Stuff/test
+cp -rf ./* /media/sf_Stuff/test

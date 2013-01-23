@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gcc -o Server Server.c DieWithError.c

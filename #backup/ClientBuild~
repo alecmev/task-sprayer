@@ -1,0 +1,6 @@
+#!/bin/bash
+
+gcc -o task task.c die.c
+gcc -o test test.c die.c
+gcc -o client client.c die.c
+gcc -o server server.c die.c

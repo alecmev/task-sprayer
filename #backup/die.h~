@@ -1,0 +1,3 @@
+void die(char *message);
+void diePlus(char *message, int data);
+

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+mkdir -p "/media/sf_Stuff/work/Blue Lever"
+cp -rf ./* "/media/sf_Stuff/work/Blue Lever"
