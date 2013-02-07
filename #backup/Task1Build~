@@ -1,3 +1,0 @@
-#!/bin/bash
-
-gcc -o Client Client.c DieWithError.c
